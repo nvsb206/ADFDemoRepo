@@ -1,0 +1,9 @@
+{
+	"name": "nvsbadftutorial",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "59728201-3eae-4358-be5c-85120f6c2f32",
+		"tenantId": "513294a0-3e20-41b2-a970-6d30bf1546fa"
+	}
+}

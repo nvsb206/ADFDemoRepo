@@ -425,22 +425,6 @@
 					{
 						"name": "Wait1",
 						"type": "Wait",
-						"dependsOn": [
-							{
-								"activity": "Wait2",
-								"dependencyConditions": [
-									"Succeeded"
-								]
-							}
-						],
-						"userProperties": [],
-						"typeProperties": {
-							"waitTimeInSeconds": 1
-						}
-					},
-					{
-						"name": "Wait2",
-						"type": "Wait",
 						"dependsOn": [],
 						"userProperties": [],
 						"typeProperties": {
